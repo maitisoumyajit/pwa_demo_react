@@ -15,6 +15,9 @@ export default defineConfig({
         name: ' PWA Demo',
         short_name: 'PWA Demo',
         description: 'A demo PWA built with React, Vite, and TypeScript',
+        start_url: "/",
+        display: "standalone",
+        background_color: "#ffffff",
         theme_color: '#ffffff',
         icons: [
           {
