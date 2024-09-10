@@ -9,7 +9,7 @@ function App() {
       </div>
       <h1>Baba Bengali</h1>
       <div className="card">coming soon</div>
-      <button>hello</button>
+      <button>Hola</button>
     </>
   );
 }
